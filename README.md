@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=hi%2C+i'm+praneeth+reddy;security+%26+systems+engineering;building+at+the+protocol+layer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=hi%2C+i'm+praneeth;security+%26+systems+engineering;building+at+the+protocol+layer)](https://git.io/typing-svg)
 
 </div>
 
