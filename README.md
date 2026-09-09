@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I build tools that verify things other people take on trust — network traffic, model providers, system state.
+I build tools and systems that verify things other people take on trust — network traffic, model providers, system state.
 
 </div>
 
